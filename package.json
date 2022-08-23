@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/giacomotolari/deploy-github-pages/issues"
   },
-  "homepage": "https://github.com/giacomotolari/deploy-github-pages/src",
+  "homepage": "https://github.com/giacomotolari/deploy-github-pages/src/index.html",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
